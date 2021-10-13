@@ -1,7 +1,7 @@
 # Fun Night In
 
 > Random movie and meal generator. Includes filters to specify diet requirements, genre and movie release date. Save chosen or favourite results to compare or refer back to later.
-> Live demo [_here_](https://adrian-szonyi.github.io/FunNightIn/).
+> Live demo [_here_](https://lilyso.github.io/fun-night-in/).
 
 ## Table of Contents
 
@@ -60,4 +60,4 @@ Project is: _in progress_
 
 ## Contact
 
-Created by [@Adrian-szonyi](https://github.com/Adrian-szonyi),[@CPetrevski](https://github.com/CPetrevski) & [@lilyso](https://github.com/lilyso).
+Created by [@Adrian-szonyi](https://github.com/Adrian-szonyi), [@CPetrevski](https://github.com/CPetrevski) & [@lilyso](https://github.com/lilyso).
