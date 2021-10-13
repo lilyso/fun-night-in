@@ -60,4 +60,4 @@ Project is: _in progress_
 
 ## Contact
 
-Created by [@purplecobras](https://github.com/Adrian-szonyi/FunNightIn).
+Created by [@Adrian-szonyi](https://github.com/Adrian-szonyi),[@CPetrevski](https://github.com/CPetrevski) & [@lilyso](https://github.com/lilyso).
