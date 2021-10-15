@@ -14,6 +14,7 @@
 - [Room for Improvement](#room-for-improvement)
 - [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
+- [License](#license)
 
 ## General Information
 
@@ -61,3 +62,7 @@ Project is: _in progress_
 ## Contact
 
 Created by [@Adrian-szonyi](https://github.com/Adrian-szonyi), [@CPetrevski](https://github.com/CPetrevski) & [@lilyso](https://github.com/lilyso).
+
+## License
+
+- MIT
